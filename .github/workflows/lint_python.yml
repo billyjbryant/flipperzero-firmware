@@ -33,4 +33,4 @@ jobs:
         uses: actions/setup-python@v2
 
       - name: 'Check python code with black'
-        uses: psf/black@20.8b1
+        uses: psf/black@26.3.0
